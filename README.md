@@ -20,8 +20,8 @@ La aplicación permite:
 - Hacer extracciones
 - Ver todos los movimientos realizados
 
-## Screenshot
-![nombre](archivo.png)
+## Captura de pantalla
+![Pantalla inicial](badbank-backend-img.png)
 
 
 ### LICENCIA INFORMACION:
