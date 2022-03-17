@@ -12,10 +12,6 @@ Esta aplicación fue desarrollada como parte de un ejercio para del curso Certif
 5 - ejecutar 'node index.js' en la terminal desde tu archivo raíz 
 6 - Navegar en tu buscador a http://localhost:3000 
 
-
-## Tecnología utilizada
-MongoDB, Express, Reactjs, Nodejs, Docker, HTML, CSS, Javascript
-
 ## Características 
 La aplicación permite:
 - Crear una cuenta
@@ -56,4 +52,8 @@ software.
 - <img src="https://github.com/gabrielamoldes/Modelo/blob/main/html.png" width="30px" /> HTML 
 - <img src="https://github.com/gabrielamoldes/Modelo/blob/main/css.png" width="30px" /> CSS
 - <img src="https://github.com/gabrielamoldes/Modelo/blob/main/javascript.png" width="30px" /> JavaScript
+
+## Tecnología utilizada
+MongoDB, Express, Reactjs, Nodejs, Docker
+
 
